@@ -2,11 +2,8 @@
 using System.IO;
 using System.Text.RegularExpressions;
 
-class Program
-{
-    static void Main(string[] args)
-    {
-        
+
+    
         Console.Write("Enter your name: ");
         string name = Console.ReadLine();
 
@@ -66,7 +63,7 @@ class Program
         }
 
         
-        Console.Write("\nEnter a string to format to Title Case: ");
+        Console.Write("\nEnter a string to format: ");
         string inputString = Console.ReadLine();
         string titleCaseString = System.Globalization.CultureInfo.CurrentCulture.TextInfo.ToTitleCase(inputString.ToLower());
         Console.WriteLine($"Formatted String: {titleCaseString}");
@@ -74,9 +71,8 @@ class Program
         
         GC.Collect();
         GC.WaitForPendingFinalizers();
-        Console.WriteLine("\nGarbage Collection triggered explicitly.");
+        Console.WriteLine("\nGarbage Collection has been triggered.");
 
-        Console.WriteLine("Press any key to exit...");
+        Console.WriteLine("Press any key to close");
         Console.ReadKey();
-    }
-}
+ 
