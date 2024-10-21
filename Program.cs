@@ -24,7 +24,7 @@ using System.Text.RegularExpressions;
             }
             else
             {
-                Console.WriteLine("Error: Invalid date format. Please use MM/dd/yyyy.");
+                Console.WriteLine("Error: Invalid date format.");
             }
         }
 
@@ -44,7 +44,7 @@ using System.Text.RegularExpressions;
         Console.WriteLine(fileContent);
 
         
-        Console.Write("\nEnter a directory path to list its files: ");
+        Console.Write("\nEnter a directory path: ");
         string directoryPath = Console.ReadLine();
 
     
