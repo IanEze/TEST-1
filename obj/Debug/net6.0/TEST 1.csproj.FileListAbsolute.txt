@@ -1,0 +1,15 @@
+C:\Users\ianvi\Downloads\TEST 1\bin\Debug\net6.0\TEST 1.exe
+C:\Users\ianvi\Downloads\TEST 1\bin\Debug\net6.0\TEST 1.deps.json
+C:\Users\ianvi\Downloads\TEST 1\bin\Debug\net6.0\TEST 1.runtimeconfig.json
+C:\Users\ianvi\Downloads\TEST 1\bin\Debug\net6.0\TEST 1.dll
+C:\Users\ianvi\Downloads\TEST 1\bin\Debug\net6.0\TEST 1.pdb
+C:\Users\ianvi\Downloads\TEST 1\obj\Debug\net6.0\TEST 1.csproj.AssemblyReference.cache
+C:\Users\ianvi\Downloads\TEST 1\obj\Debug\net6.0\TEST 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ianvi\Downloads\TEST 1\obj\Debug\net6.0\TEST 1.AssemblyInfoInputs.cache
+C:\Users\ianvi\Downloads\TEST 1\obj\Debug\net6.0\TEST 1.AssemblyInfo.cs
+C:\Users\ianvi\Downloads\TEST 1\obj\Debug\net6.0\TEST 1.csproj.CoreCompileInputs.cache
+C:\Users\ianvi\Downloads\TEST 1\obj\Debug\net6.0\TEST 1.dll
+C:\Users\ianvi\Downloads\TEST 1\obj\Debug\net6.0\refint\TEST 1.dll
+C:\Users\ianvi\Downloads\TEST 1\obj\Debug\net6.0\TEST 1.pdb
+C:\Users\ianvi\Downloads\TEST 1\obj\Debug\net6.0\TEST 1.genruntimeconfig.cache
+C:\Users\ianvi\Downloads\TEST 1\obj\Debug\net6.0\ref\TEST 1.dll
